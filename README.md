@@ -39,8 +39,7 @@ This repository contains the PDF transcripts and reports corresponding to the 5-
 The full immersive audio experience—featuring AI-generated hosts executing a real-time participant audit of these exact documents—is available on SoundCloud. 
 
 Listen to the series here: **[The Seed Library by The Bear on SoundCloud]** *(Link to your main playlist page)*
-*   *Direct link to Track 1:* [soundcloud.com/orlytm/episode_1](https://soundcloud.com/orlytm/episode_1)
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2269871084&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alpskimedved" title="Bear of Alps" target="_blank" style="color: #cccccc; text-decoration: none;">Bear of Alps</a> · <a href="https://soundcloud.com/alpskimedved/sets/bears-seed-library-audio" title="Bear&#x27;s Seed library - audio podcast series by NotebokLM" target="_blank" style="color: #cccccc; text-decoration: none;">Bear&#x27;s Seed library - audio podcast series by NotebokLM</a></div>
 ## 🧠 About the Architect
 The Seed Library is authored by **The Bear**, operating as a high-impact, low-threshold node. Using a distinct cognitive architecture to map sweeping connections across disparate nodes, the project acts as an "epistemic immune system" for humanity. It operates on the strict discipline of **"tries, not promises,"** passing the work forward without demanding the glory of the final victory.
 
