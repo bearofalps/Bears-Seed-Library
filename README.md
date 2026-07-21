@@ -20,19 +20,19 @@ This is an open-source survival guide for the "Last Economy."
 
 This repository contains the PDF transcripts and reports corresponding to the 5-part audio series. 
 
-*   📄 **`Preface_The_Seed_Library.pdf`** 
+*   📄 **`Preface_The_Seed_Library.md`** 
     *   *The Foundation:* An introduction to the Seven-Year Boot Window, the mechanics of the threshold cascade, and the "tries, not promises" methodology of the author.
-*   📄 **`Episode_1__The_Brutal_Physical_Race_for_AI.pdf`** 
+*   📄 **`Episode_1__The_Brutal_Physical_Race_for_AI.md`** 
     *   *The Substrate:* Exploring the gigawatt constraints, the "wattage as currency" reality, and the shift toward orbital data centers. 
-*   📄 **`Episode_2__Why_Your_Companys_Soul_Is_Now_Downloadable.pdf`** 
+*   📄 **`Episode_2__Why_Your_Companys_Soul_Is_Now_Downloadable.md`** 
     *   *The Agentic Enterprise:* How tacit human knowledge is being encoded into digital token capital, and the end of traditional SaaS moats.
-*   📄 **`Episode_3__Walled_Gardens_versus_the_Decentralized_AGI_Mesh.pdf`** 
+*   📄 **`Episode_3__Walled_Gardens_versus_the_Decentralized_AGI_Mesh.md`** 
     *   *The Geopolitics:* The Anthropic-Pentagon collision, cyber vulnerabilities, and the battle over open-weights proliferation.
-*   📄 **`Episode_4__Why_AI_Harm_Is_Working_as_Designed.pdf`** 
+*   📄 **`Episode_4__Why_AI_Harm_Is_Working_as_Designed.md`** 
     *   *The Messy Reality:* A critical audit of algorithmic engagement traps, the rapid displacement of physical labor, and the friction of deployment.
-*   📄 **`Episode_5__The_Seven_Year_AI_Boot_Window.pdf`** 
+*   📄 **`Episode_5__The_Seven_Year_AI_Boot_Window.md`** 
     *   *The Awakening:* The meta-framework finale, synthesizing the physical build-out of the machine with the sociological awakening of the "sleeping majority."
-*   🗂️ **`Index_of_Folder_Content.pdf`**
+*   🗂️ **`Index_of_Folder_Content.md`**
     *   The master map of all file sizes, naming conventions, and media types generated during the NotebookLM participant audit.
 
 ## 🎧 Listen to the Audio Series
